@@ -1,15 +1,35 @@
-PT-BR
-- 👋 Olá eu me chamo José.
-- 🎓 Sou um estudante de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
-- 👀 Tenho interesse nas áreas de Inteligência Artificial, Estatística e Bioinformática. No entanto, também gosto de trabalhar com automações e tenho planos de unir esses interesses no futuro.
-- 🌱 Atualmente, estou estudando Aprendizado de Máquina.
+#  Bem-vindo(a)! Sou José Victor
 
-EN
-- 👋 Hello, my name is José.
-- 🎓 I am a Computer Engineering student at the Universidade Tecnológica Federal do Paraná (UTFPR).
-- 👀 I have an interest in the areas of Artificial Intelligence, Statistics, and Bioinformatics. However, I also enjoy working with automations and have plans to integrate these interests in the future.
-- 🌱 Currently, I am studying Machine Learning.
-<!---
-Josevpc/Josevpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudande de **Engenharia de Computação** com foco em **Machine Learning** e **Análise de Dados**.
+
+---
+
+## Sobre Mim  
+
+- 🎓 **Formação Acadêmica**: Bacharelado em Andamente em Engenharia de Computação na UTFPR (Universidade Tecnológica Federal do Paraná).  
+- 💼 **Experiência**: Atuei como bolsista de iniciação científica na Implementação de Métodos de Kernel.
+- 🌟 **Interesses**: Análise de Dados, Aprendizado de Máquina, Visualização de Dados e aplicações práticas em setores como finanças e bioinformática.
+
+---
+
+## Habilidades Técnicas  
+
+- **Linguagens de Programação**: Python, C, R
+- **Bibliotecas de ML/DL**: Scikit-learn  
+- **Ferramentas de Análise**: Pandas, NumPy, Matplotlib, Biopython, Power BI  
+
+---
+
+## Projetos  
+
+### 🔗 [Fast String Kernel](https://github.com/Josevpc/Fast-String-Kernel)  
+String Kernel de tempo linear O(n)
+
+---
+
+## Contato  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/josevpc/)   
+- ✉️ [Email](mailto:josevictor@alunos.utfpr.edu.br)  
+
+---  
