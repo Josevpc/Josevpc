@@ -2,6 +2,8 @@
 
 Estudande de **Engenharia de Computação** com foco em **Machine Learning** e **Análise de Dados**.
 
+---
+
 ## Sobre Mim  
 
 - 🎓 **Formação Acadêmica**: Bacharelado em Andamente em Engenharia de Computação na UTFPR (Universidade Tecnológica Federal do Paraná).  
