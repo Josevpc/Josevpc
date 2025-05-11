@@ -1,35 +1,17 @@
-#  Bem-vindo(a)! Sou José Victor
+# 💫 About Me:
+I'm currently looking for internships in Data Science and studying Machine Learning.
+Computer Engineering - UTFPR (Universidade Tecnológica Federal do Paraná).
+I'm deeply interested in Data Science, Machine Learning, and Data Visualization, with a particular focus on real-world applications in fields such as finance and bioinformatics.
 
-Estudande de **Engenharia de Computação** com foco em **Machine Learning** e **Análise de Dados**.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josevpc/) 
 
-## Sobre Mim  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Josevpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Josevpc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josevpc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🎓 **Formação Acadêmica**: Bacharelado em Andamente em Engenharia de Computação na UTFPR (Universidade Tecnológica Federal do Paraná).  
-- 💼 **Experiência**: Atuei como bolsista de iniciação científica na Implementação de Métodos de Kernel.
-- 🌟 **Interesses**: Análise de Dados, Aprendizado de Máquina, Visualização de Dados e aplicações práticas em setores como finanças e bioinformática.
-
----
-
-## Habilidades Técnicas  
-
-- **Linguagens de Programação**: Python, C, R
-- **Bibliotecas de ML/DL**: Scikit-learn  
-- **Ferramentas de Análise**: Pandas, NumPy, Matplotlib, Biopython, Power BI  
-
----
-
-## Projetos  
-
-### 🔗 [Fast String Kernel](https://github.com/Josevpc/Fast-String-Kernel)  
-String Kernel de tempo linear O(n)
-
----
-
-## Contato  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/josevpc/)   
-- ✉️ [Email](mailto:josevictor@alunos.utfpr.edu.br)  
-
----  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
